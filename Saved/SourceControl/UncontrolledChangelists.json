@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/Game310FinalFixedReal/Content/Characters/Turret/BP_Static.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/Game310FinalFixedReal/Content/Characters/Turret/BP_Rotate1.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/Game310FinalFixedReal/Content/Characters/Turret/BP_Rot90.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/Game310FinalFixedReal/Content/__ExternalActors__/Lvl_ThirdPerson/1/C7/ZJBD2TRH85R3VCMR675IFQ.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/Game310FinalFixedReal/Content/__ExternalActors__/Lvl_ThirdPerson/4/54/HJEMC6XXZF8CGVYKQWS87M.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/Game310FinalFixedReal/Content/__ExternalActors__/Lvl_ThirdPerson/1/NN/7R90W4KHB8XWOUF19M39K5.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/Game310FinalFixedReal/Content/Characters/Turret/BP_90Rot.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/Game310FinalFixedReal/Content/Characters/Turret/BP_RotTEST.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/Game310FinalFixedReal/Content/__ExternalActors__/Lvl_ThirdPerson/6/2Y/LWRTWTAEG3H2RRFMR6KHIW.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/Game310FinalFixedReal/Content/__ExternalActors__/Lvl_ThirdPerson/9/TJ/Q7WPX18DNDSZ1DJ351HD3C.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/Game310FinalFixedReal/Content/__ExternalActors__/Lvl_ThirdPerson/6/ZU/L4FD2KMTQ15OCX1XAC7Q4E.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/Game310FinalFixedReal/Content/__ExternalActors__/Lvl_ThirdPerson/5/5X/1FAJ7BULYVCNJCV7SU9GE1.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/Game310FinalFixedReal/Content/__ExternalActors__/Lvl_ThirdPerson/F/37/QZQLDGDADAUP5JYC87HMZS.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/Game310FinalFixedReal/Content/Characters/Turret/BP_90Clock.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/Game310FinalFixedReal/Content/Characters/Turret/Counter.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/Game310FinalFixedReal/Content/__ExternalActors__/Lvl_ThirdPerson/B/IX/XXD7NBYOFWK2A3K4TGW2FG.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/Game310FinalFixedReal/Content/__ExternalActors__/Lvl_ThirdPerson/9/YO/9TU4BDV1N5LM41LRVOIBLB.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/Game310FinalFixedReal/Content/Characters/Turret/Counter1.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/Game310FinalFixedReal/Content/__ExternalActors__/Lvl_ThirdPerson/7/IE/ZHCYZKMDQZRTREDJJK1UJ0.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/Game310FinalFixedReal/Content/Characters/Turret/BP_90Clock1.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/Game310FinalFixedReal/Content/Characters/Turret/BP_90Counter.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/Game310FinalFixedReal/Content/__ExternalActors__/Lvl_ThirdPerson/3/RS/34NZEPYH9L1I703EIKKUE4.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/Game310FinalFixedReal/Content/__ExternalActors__/Lvl_ThirdPerson/8/FY/3MCZLIE685AHHB30GQ7OZI.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/Game310FinalFixedReal/Content/__ExternalActors__/Lvl_ThirdPerson/4/W3/U0QJHR6D1ECLHILZAXEKP0.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/Game310FinalFixedReal/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}

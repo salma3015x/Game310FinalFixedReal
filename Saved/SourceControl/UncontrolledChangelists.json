@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/jtpop/OneDrive/Documents/GitHub/Game310FinalFixedReal/Content/Characters/Turret/BP_Static.uasset",
 				"C:/Users/jtpop/OneDrive/Documents/GitHub/Game310FinalFixedReal/Content/Characters/Turret/BP_Rotate1.uasset",
 				"C:/Users/jtpop/OneDrive/Documents/GitHub/Game310FinalFixedReal/Content/Characters/Turret/BP_Rot90.uasset",
@@ -30,6 +31,11 @@
 				"C:/Users/jtpop/OneDrive/Documents/GitHub/Game310FinalFixedReal/Content/__ExternalActors__/Lvl_ThirdPerson/8/FY/3MCZLIE685AHHB30GQ7OZI.uasset",
 				"C:/Users/jtpop/OneDrive/Documents/GitHub/Game310FinalFixedReal/Content/__ExternalActors__/Lvl_ThirdPerson/4/W3/U0QJHR6D1ECLHILZAXEKP0.uasset",
 				"C:/Users/jtpop/OneDrive/Documents/GitHub/Game310FinalFixedReal/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+=======
+				"C:/Users/salma/OneDrive/Documents/Unreal Projects/Game310FinalFixedReal/Content/BP_Collectable.uasset",
+				"C:/Users/salma/OneDrive/Documents/Unreal Projects/Game310FinalFixedReal/Content/__ExternalActors__/Lvl_ThirdPerson/A/AL/PJDI3SHNGKNEWE4WRKPI60.uasset",
+				"C:/Users/salma/OneDrive/Documents/Unreal Projects/Game310FinalFixedReal/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
